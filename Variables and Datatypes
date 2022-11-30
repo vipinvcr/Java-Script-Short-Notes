@@ -37,3 +37,10 @@ All are same
 
 prompt() -> asks for input [Input is string] Can be converted to int by using Number.parseInt()
 alert() -> display message
+
+
+
+LOOPS
+
+for...in-> Used with maps
+for...of-> Used with arrays or strings
