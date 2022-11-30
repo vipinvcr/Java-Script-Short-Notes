@@ -1,0 +1,25 @@
+VARIABLES
+
+var, let, const
+
+var- global, can be undefined
+let- block, can't be undefined
+const- block, can't be undefined, can't be re-initialised
+
+
+DATATYPES
+
+NN BB SS U
+N- null
+N- number
+B- boolean
+B- big int
+S- string
+S- symbol
+U- undefined
+
+We can also make objects like maps and lists.
+
+Eg: let map= { "BMW" : 3, "Audi" : 5}
+
+let cars= { "BMW", "Mercedes", "Suzuki"}
