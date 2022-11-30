@@ -22,4 +22,18 @@ We can also make objects like maps and lists.
 
 Eg: let map= { "BMW" : 3, "Audi" : 5}
 
-let cars= { "BMW", "Mercedes", "Suzuki"}
+let cars= ["BMW", "Mercedes", "Suzuki"]
+
+To access map, use map["BMW"] or map.BMW or map['BMW']
+To access cars, use cars[0], etc..
+
+
+OPERATORS
+
+All are same
+=== - checks for value as well as type
+!== - checks for value as well as type
+
+
+prompt() -> asks for input [Input is string] Can be converted to int by using Number.parseInt()
+alert() -> display message
